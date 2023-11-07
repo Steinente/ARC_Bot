@@ -1,10 +1,10 @@
 {
-  "name": "veganizer",
+  "name": "arc",
   "version": "1.0.0",
   "description": "",
-  "main": "src/veganizer.ts",
+  "main": "src/arc.ts",
   "scripts": {
-    "start": "ts-node src/veganizer.ts"
+    "start": "ts-node src/arc.ts"
   },
   "author": "Steinente",
   "license": "ISC",
